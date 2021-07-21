@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=usuny0317&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=usuny0317&theme=great-gatsby&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usuny0317&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
