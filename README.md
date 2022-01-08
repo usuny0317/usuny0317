@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 
 ## BOJ Status(Solved.ac Tier)
 [![Solved.ac 
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=usuny0317)](https://solved.ac/soosoo030)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=usuny0317)](https://solved.ac/usuny0317)
