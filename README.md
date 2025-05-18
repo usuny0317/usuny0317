@@ -7,7 +7,7 @@
   <ul style="font-weight: 700; font-size: 15px; color: #282d33; list-style-position: inside;">
     <li>저의 목표는 성실하게 주어진 바를 수행하는 개발자입니다!</li>
     <li>새로운 기술과 기능을 배움에 있어 망설이지 않겠습니다!</li>
-    <li>항상 최선을 다해 노력하여 기능을 완수하겠습니다!</li>
+    <li>항상 최선을 다해 노력하여 사용자를 위해 기능을 완수하겠습니다!</li>
   </ul>
 </div>
 
